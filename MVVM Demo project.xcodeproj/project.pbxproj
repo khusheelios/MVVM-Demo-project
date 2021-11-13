@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		D657CFEC273FDF88005609EA /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D657CFEB273FDF88005609EA /* ViewController.swift */; };
+		D657CFF4273FE7A0005609EA /* NewFile.swift in Sources */ = {isa = PBXBuildFile; fileRef = D657CFF3273FE7A0005609EA /* NewFile.swift */; };
 		D69C582B271B02F00033BE25 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = D69C582A271B02F00033BE25 /* AppDelegate.swift */; };
 		D69C582D271B02F00033BE25 /* DocumentBrowserViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D69C582C271B02F00033BE25 /* DocumentBrowserViewController.swift */; };
 		D69C582F271B02F00033BE25 /* DocumentViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D69C582E271B02F00033BE25 /* DocumentViewController.swift */; };
@@ -39,6 +40,7 @@
 
 /* Begin PBXFileReference section */
 		D657CFEB273FDF88005609EA /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		D657CFF3273FE7A0005609EA /* NewFile.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NewFile.swift; sourceTree = "<group>"; };
 		D69C5827271B02F00033BE25 /* MVVM Demo project.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "MVVM Demo project.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		D69C582A271B02F00033BE25 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		D69C582C271B02F00033BE25 /* DocumentBrowserViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DocumentBrowserViewController.swift; sourceTree = "<group>"; };
@@ -112,6 +114,7 @@
 				D69C5837271B02F20033BE25 /* LaunchScreen.storyboard */,
 				D69C583A271B02F20033BE25 /* Info.plist */,
 				D657CFEB273FDF88005609EA /* ViewController.swift */,
+				D657CFF3273FE7A0005609EA /* NewFile.swift */,
 			);
 			path = "MVVM Demo project";
 			sourceTree = "<group>";
@@ -266,6 +269,7 @@
 			files = (
 				D657CFEC273FDF88005609EA /* ViewController.swift in Sources */,
 				D69C5831271B02F00033BE25 /* Document.swift in Sources */,
+				D657CFF4273FE7A0005609EA /* NewFile.swift in Sources */,
 				D69C582F271B02F00033BE25 /* DocumentViewController.swift in Sources */,
 				D69C582D271B02F00033BE25 /* DocumentBrowserViewController.swift in Sources */,
 				D69C582B271B02F00033BE25 /* AppDelegate.swift in Sources */,
