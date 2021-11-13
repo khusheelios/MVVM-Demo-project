@@ -13,6 +13,9 @@ class DocumentBrowserViewController: UIDocumentBrowserViewController, UIDocument
     override func viewDidLoad() {
         super.viewDidLoad()
         
+        
+        print("Cheery pick le liya")
+        
         delegate = self
         
         allowsDocumentCreation = true
